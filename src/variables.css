@@ -1,0 +1,9 @@
+#root{
+    --primary-bg: white;
+    --primary-bg-dark: black;
+    --primary-text: white;
+    --primary-text-dark: black;
+    --secondary-text: rgb(132, 132, 132);
+    --secondary-text-light: rgb(195, 195, 195);
+    --secondary-text-dark: rgb(83, 83, 83);
+}
